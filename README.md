@@ -23,6 +23,6 @@ Olá a todos, este é um repositório de aprendizagens, isso mesmo. Abaixo tem u
    [X] Edite o arquivo "README.md" em seu repositório.
    [X] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
-<div align="center"><h2> Ethereum: :ocean:</h2></div>
+<div align="center"><h3> Ethereum: :ocean:</h3></div>
 
 ![EthereumCuriosity](https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Feth.28aff33d.png&w=384&q=75)
