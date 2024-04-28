@@ -15,8 +15,8 @@ Olá a todos, este é um repositório de aprendizagens, isso mesmo. Abaixo tem u
    [X] Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.  Lembre-se: o repositório deve ser público.
 
 3. **Colaboração:**
-   [] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   [] Ambos devem fazer um clone do repositório em suas máquinas locais.
+   [X] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+   [X] Ambos devem fazer um clone do repositório em suas máquinas locais.
    [] Realizem alterações, Commits, abra issues e pull requests.
 
 4. **Formatação com Markdown:**
